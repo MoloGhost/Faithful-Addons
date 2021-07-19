@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "minecraft:block/white_pumpkin_top",
+    "front": "minecraft:block/white_carved_pumpkin",
+    "side": "minecraft:block/white_pumpkin_side",
+    "down": "minecraft:block/white_pumpkin_bottom"
+  }
+}
